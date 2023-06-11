@@ -1,0 +1,23 @@
+
+.titulo-venta{
+    text-align: center;
+    font-weight: 450;
+    font-size: 1rem;
+    }
+    
+.titulo-venta span {
+    display: block;
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+
+#footer{
+    background: #1d3c4e;
+    color: white;
+    padding: 1.5rem;
+}
+
+#footer .nav-link {
+    color: white;
+    text-align: center;
+}
